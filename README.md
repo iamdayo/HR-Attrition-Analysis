@@ -2,7 +2,16 @@
 ### HR Analytics — Employee Attrition Analysis
 **Tool:** Microsoft Excel &nbsp;|&nbsp; **By:** Temidayo Olubayo
 
-> *The analysis revealed a surprising pattern: the company was not losing low performers — many of the employees leaving were high-performing early-career staff.*
+## Business Context
+
+Employee attrition is one of the most expensive problems organizations face. 
+Losing skilled employees increases recruitment costs, slows productivity, and disrupts team stability.
+
+Understanding **who is leaving and why** allows companies to design better compensation strategies, retention programs, and career development pathways.
+
+This analysis investigates employee attrition patterns using HR data to identify the factors most strongly associated with voluntary employee exits.
+
+> *The analysis revealed a surprising pattern: the company was not losing low performers- many of the employees leaving were high-performing early-career staff.*
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -24,18 +33,26 @@ The findings reveal a clear pattern behind why high-performing early-career empl
 
 ## Problem Statement
 
-The business needed to understand:
+Employee attrition can significantly impact organizational performance. 
+When skilled employees leave, companies face higher recruitment costs, lost productivity, and disruption within teams.
 
-- **Why are employees leaving**, and who exactly is walking out the door?
-- **Is attrition driven by dissatisfaction**, or something else entirely?
-- What financial and structural factors correlate most strongly with voluntary exits?
-- Which set of employees are the highest risk, and what can the business do about it?
+The organization wants to understand why employees are leaving and identify patterns associated with voluntary departures in order to improve retention strategies.
 
+## Business Questions
+
+This analysis focuses on answering five key questions:
+
+1. Which employee groups experience the highest attrition?
+2. Are employees leaving because of dissatisfaction or external opportunities?
+3. Does salary growth influence retention among early-career employees?
+4. Do stock options play a role in employee retention?
+5. Which employee segments represent the highest retention risk?
+   
 ## Dataset Overview
 
 | Field | Detail |
 |---|---|
-| Source | TDI data analaysis community |
+| Source | TDI Data Analysis Community |
 | Total Records | 1,470 employees |
 | Clean Records | 1,449 |
 | Flagged / Under Review | 21 records |
@@ -48,7 +65,7 @@ The business needed to understand:
 
 ## Data Cleaning Process
 
-The dataset went through a cleaning process before analysis was done. What was checked and addressed were:
+The dataset went through a cleaning process before analysis was done. The following checks were performed before analysis:
 
 **Duplicates & Missing Values:**
 No duplicates were found, no missing or null values across any column.
@@ -104,7 +121,7 @@ Based on 1,449 clean records, 237 employees left. 217 of those were used for dee
 ### 2. The company is losing its best people and not its worst:
 Most exits occurred through resignation or retirement. Very few employees were dismissed, indicating that attrition is primarily driven by employees choosing to leave and not by employment terminations.
 
-The most affected age group is **25 to 34 years**. These are high-value employees walking out the door on their own terms.
+The most affected age group is **25 to 34 years**. This group represents high-performing early-career employees leaving the company voluntarily.
 
 ### 3. Job satisfaction is not the main driver:
 The average job satisfaction scored 3.0 out of 5. Approximately 28.11% rated it low and 19.35% rated medium scores. But many employees who left had decent satisfaction scores. This pointed to something more important:
@@ -156,7 +173,7 @@ Employees above 55 exited mostly with retirement and few dismissed. This is expe
 - Are salary raises keeping people? *(Attrition by Salary Hike Bracket)*
 - What stock options make people leave? *(Attrition by Stock Option Level)*
 - How long do people stay in the company? *(Attrition by Tenure Group)*
-- How do peopleleave? *(Attrition by Termination Type)*
+- How do people leave? *(Attrition by Termination Type)*
 - What gender leaves the most? *(Attrition by Gender)*
 
 **Slicers**
@@ -188,6 +205,17 @@ The data showed that satisfaction alone does not predict whether someone stays. 
 
 This group the next potential to leave for the same reasons as the 25 to 34 years group (no to low stock options, low salary hike). The low job satisfaction within this bracket is also worth monitoring before it becomes the next attrition wave.
 
+## Business Impact
+
+The findings highlight a clear retention gap among early-career high-performing employees.
+
+If unaddressed, this pattern can result in:
+- increased recruitment and training costs
+- loss of experienced mid-level talent pipelines
+- reduced organizational stability
+
+Addressing compensation growth and long-term incentives could significantly reduce attrition among the most valuable employee segments.
+
 ## Tools Used
 
 | Tool | Purpose |
@@ -197,4 +225,5 @@ This group the next potential to leave for the same reasons as the 25 to 34 year
 | Pivot Tables | Aggregations and cross-tabulations for all charts |
 | Slicers | Interactive dashboard filtering |
 
+---
 **Temidayo Olubayo** &nbsp;|&nbsp; Data Analytics &nbsp;
