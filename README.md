@@ -152,12 +152,12 @@ Employees above 55 exited mostly with retirement and few dismissed. This is expe
 - Average Performance Rating
 
 **Charts**
-- Which age group is most likely to walk out the door? *(Attrition by Age Group)*
-- Is salary growth enough to keep people? *(Attrition by Salary Hike Bracket)*
-- Do leavers have a financial reason to stay? *(Attrition by Stock Option Level)*
-- Attrition by Tenure Group
-- Attrition by Termination Type
-- Attrition by Gender
+- What age group leaves the most? *(Attrition by Age Group)*
+- Are salary raises keeping people? *(Attrition by Salary Hike Bracket)*
+- What stock options make people leave? *(Attrition by Stock Option Level)*
+- How long do people stay in the company? *(Attrition by Tenure Group)*
+- How do peopleleave? *(Attrition by Termination Type)*
+- What gender leaves the most? *(Attrition by Gender)*
 
 **Slicers**
 - Tenure
@@ -168,19 +168,24 @@ Employees above 55 exited mostly with retirement and few dismissed. This is expe
 
 ## Recommendations
 
-**1. Fix salary progression for early-tenure employees**
+**1. Fix salary progression for early-tenure employees:**
+
 The under-5-year, under-15%-hike segment accounts for the most amount of attrition. Structured, and better salary growth plan for the first five years of employment would directly address this.
 
-**2. Introduce meaningful stock options for high performers**
+**2. Introduce meaningful stock options for high performers:**
+
 Allocate stock options to high-performing employees aged 25–34 to create stronger financial incentives for retention.
 
-**3. Build visible career pathways**
+**3. Build visible career pathways:**
+
 Ambitious employees leave when they can't see where they are going. Clear promotion criteria and career progression structures can reduce the appeal of external offers.
 
-**4. Shift from satisfaction surveys to retention strategy**
+**4. Shift from satisfaction surveys to retention strategy:**
+
 The data showed that satisfaction alone does not predict whether someone stays. The company needs to monitor compensation competitiveness against the external market, not just internal sentiment scores.
 
-**5. Watch the 35 to 55 group**
+**5. Watch the 35 to 55 group:**
+
 This group the next potential to leave for the same reasons as the 25 to 34 years group (no to low stock options, low salary hike). The low job satisfaction within this bracket is also worth monitoring before it becomes the next attrition wave.
 
 ## Tools Used
