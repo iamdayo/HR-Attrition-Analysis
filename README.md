@@ -16,12 +16,14 @@ This analysis investigates employee attrition patterns using HR data to identify
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Problem Statement](#problem-statement)
-3. [Dataset Overview](#dataset-overview)
-4. [Data Cleaning Process](#data-cleaning-process)
-5. [Key Findings](#key-findings)
-6. [Dashboard & Visuals](#dashboard--visuals)
-7. [Recommendations](#recommendations)
-8. [Tools Used](#tools-used)
+3. [Key Questions](#key-questions)
+4. [Dataset Overview](#dataset-overview)
+5. [Data Cleaning Process](#data-cleaning-process)
+6. [Key Findings](#key-findings)
+7. [Dashboard & Visuals](#dashboard--visuals)
+8. [Recommendations](#recommendations)
+9.  [Business Impact](#business-impact)
+10. [Tools Used](#tools-used)
 
 ## Project Overview
 
@@ -33,20 +35,14 @@ The findings reveal a clear pattern behind why high-performing early-career empl
 
 ## Problem Statement
 
-Employee attrition can significantly impact organizational performance. 
-When skilled employees leave, companies face higher recruitment costs, lost productivity, and disruption within teams.
+The company wants to understand why employees are leaving and identify patterns associated with voluntary attrition.
 
-The organization wants to understand why employees are leaving and identify patterns associated with voluntary departures in order to improve retention strategies.
+## Key Questions
 
-## Business Questions
-
-This analysis focuses on answering five key questions:
-
-1. Which employee groups experience the highest attrition?
-2. Are employees leaving because of dissatisfaction or external opportunities?
-3. Does salary growth influence retention among early-career employees?
-4. Do stock options play a role in employee retention?
-5. Which employee segments represent the highest retention risk?
+• Which employees are most likely to leave?  
+• What role does salary growth play in retention?  
+• Do stock options influence employee decisions to stay?  
+• Are high-performing employees leaving the company?
    
 ## Dataset Overview
 
