@@ -219,4 +219,4 @@ This group the next potential to leave for the same reasons as the 25 to 34 year
 | Pivot Tables | Aggregations and cross-tabulations for all charts |
 | Slicers | Interactive dashboard filtering |
 
-**Temidayo Olubayo** &nbsp;|&nbsp; Data Analytics &nbsp;|&nbsp; 
+**Temidayo Olubayo** &nbsp;|&nbsp; Data Analytics &nbsp;
