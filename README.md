@@ -199,7 +199,7 @@ The data showed that satisfaction alone does not predict whether someone stays. 
 
 **5. Watch the 35 to 55 group:**
 
-This group the next potential to leave for the same reasons as the 25 to 34 years group (no to low stock options, low salary hike). The low job satisfaction within this bracket is also worth monitoring before it becomes the next attrition wave.
+This group the next potential to leave for the same reasons as the 25 to 34 years group (no to low stock options, low salary hike). The low job satisfaction within this bracket is also worth monitoring before it becomes the next attrition wave
 
 ## Business Impact
 
