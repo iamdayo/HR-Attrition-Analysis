@@ -2,11 +2,7 @@
 ### HR Analytics — Employee Attrition Analysis
 **Tool:** Microsoft Excel &nbsp;|&nbsp; **By:** Temidayo Olubayo
 
----
-
 > *The analysis revealed a surprising pattern: the company was not losing low performers — many of the employees leaving were high-performing early-career staff.*
-
----
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -18,10 +14,6 @@
 7. [Recommendations](#recommendations)
 8. [Tools Used](#tools-used)
 
----
-
-## Project Overview
-
 ## Project Overview
 
 This project analyzes an HR dataset to understand patterns behind employee attrition and identify factors associated with voluntary employee exits.
@@ -29,8 +21,6 @@ This project analyzes an HR dataset to understand patterns behind employee attri
 Using Microsoft Excel, the dataset was cleaned, validated, and analyzed across 1,470 employee records. The analysis explores relationships between age, tenure, salary growth, stock options, job satisfaction, and employee departures.
 
 The findings reveal a clear pattern behind why high-performing early-career employees are leaving the company.
-
----
 
 ## Problem Statement
 
@@ -40,8 +30,6 @@ The business needed to understand:
 - **Is attrition driven by dissatisfaction**, or something else entirely?
 - What financial and structural factors correlate most strongly with voluntary exits?
 - Which set of employees are the highest risk, and what can the business do about it?
-
----
 
 ## Dataset Overview
 
@@ -57,8 +45,6 @@ The business needed to understand:
 **Key Columns:**
 
 `ID_employe` `Age` `Attrition` `Department` `Job Role` `Gender` `MaritalStatus` `EmploymentType` `TerminationType` `Salary` `PercentSalaryHike` `StockOption` `JobSatisfaction` `PerformanceRating` `WorkLifeBalance` `OverTime` `TotalWorkingYears` `YearsSinceLastPromotion` `DateBirth` `DateStart` `DateDeparture` `Tenure`
-
----
 
 ## Data Cleaning Process
 
@@ -110,8 +96,6 @@ Ages below 18 or above 70 were flagged for review as they fall outside the expec
 **Sample of dataset**
 <img width="1899" height="930" alt="image" src="https://github.com/user-attachments/assets/af4354cc-0920-448e-882e-157b0d26d8b3" />
 
----
-
 ## Key Findings
 
 ### 1. The attrition rate is 16.2%:
@@ -132,8 +116,6 @@ The average job satisfaction scored 3.0 out of 5. Approximately 28.11% rated it 
 
 The data showed a Pull Factor story. Employees were not leaving because they weren't satisfied, they were leaving for better opportunity.
 
----
-
 ### Why this conclusion?:
 
 ### a. Salary growth is too low to retain early-career talent
@@ -147,7 +129,6 @@ The data showed a Pull Factor story. Employees were not leaving because they wer
 
 <img width="665" height="266" alt="image" src="https://github.com/user-attachments/assets/3b59f7e4-a66f-45d9-a080-1fd3095e6951" />
 
-
 ### b. Stock options are the missing anchor:
 - *Majority of employees had **zero to minimal stock options (Level 0 or 1)**. This was accross the full attrition group and remained consistent when filtered to only the under-15% salary hike segment.*
 
@@ -157,12 +138,8 @@ The data showed a Pull Factor story. Employees were not leaving because they wer
 
 **The combination of low salary hikes and no stock options gave early-career, high-performing employees no financial reason to say no to a better offer.**
 
----
-
 ### 4. The 55+ group is not a concern
 Employees above 55 exited mostly with retirement and few dismissed. This is expected and does not represent a retention problem.
-
----
 
 ## Dashboard & Visuals
 
@@ -189,8 +166,6 @@ Employees above 55 exited mostly with retirement and few dismissed. This is expe
 
 <img width="1560" height="865" alt="Screenshot 2026-03-07 161742" src="https://github.com/user-attachments/assets/12e88c55-58a5-4217-8124-2f3b44d65e44" />
 
----
-
 ## Recommendations
 
 **1. Fix salary progression for early-tenure employees**
@@ -207,8 +182,6 @@ The data showed that satisfaction alone does not predict whether someone stays. 
 
 **5. Watch the 35 to 55 group**
 This group the next potential to leave for the same reasons as the 25 to 34 years group (no to low stock options, low salary hike). The low job satisfaction within this bracket is also worth monitoring before it becomes the next attrition wave.
-
----
 
 ## Tools Used
 
