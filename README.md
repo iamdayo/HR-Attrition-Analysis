@@ -1,5 +1,5 @@
 # Why Are Our Best People Leaving?
-### HR Analytics — Employee Attrition Analysis
+### HR Analytics - Employee Attrition Analysis
 **Tool:** Microsoft Excel &nbsp;|&nbsp; **By:** Temidayo Olubayo
 
 ## Business Context
